@@ -11,6 +11,6 @@ the code in the cmd :
 
 2. pip install tqdm
 
-3.pip install pyfiglet
+3. pip install pyfiglet
 
-4.python net.py
+4. python net.py
