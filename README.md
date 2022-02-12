@@ -13,6 +13,6 @@ the tool :https://github.com/Alshaqsi136/mac-address-scanner/archive/refs/heads/
 
 3. pip install pyfiglet
 
-4. python net.py
+4. python net.py -t 192.168.1.101 او python net.py -t اي ايبي على الشبكة 
 
 ![2022-02-12-22-00-07](https://user-images.githubusercontent.com/86517488/153722723-c4b26364-2e9c-42f5-bcc7-db1c8968ae92.png)
