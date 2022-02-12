@@ -3,9 +3,9 @@ nmap: https://nmap.org/dist/nmap-7.92-setup.exe
 
 the tool :https://github.com/Alshaqsi136/mac-address-scanner/archive/refs/heads/main.zip
 
-the code in the cmd : 
+## the code in the cmd : 
 
-## python -m pip install --upgrade pip
+ python -m pip install --upgrade pip
 
 1. pip install nmap
 
