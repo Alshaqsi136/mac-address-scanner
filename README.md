@@ -13,4 +13,4 @@ the code in the cmd :
 
 3.pip install pyfiglet
 
-python net.py
+4.python net.py
